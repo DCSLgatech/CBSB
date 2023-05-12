@@ -1,0 +1,7 @@
+.idea
+cmake-*
+build
+output
+.vscode
+analysis
+archive
